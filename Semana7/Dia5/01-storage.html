@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./01-storage.js"></script>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body{
+            height: 100%;
+        }
+
+        body{
+            padding: 100px;
+            /* background-color: darksalmon; */
+        }
+        h1{
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 20px;
+        }
+        form fieldset{
+            padding: 20px;
+        }
+        table{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+    </style>
+</head>
+<body id="cuerpo">
+    <h1>Registro de usuario</h1>
+    <form>
+        <fieldset>
+            <legend>Ingrese sus datos</legend>
+            <table>
+                <tr>
+                    <td><label for="inputNombre">Nombre</label></td>
+                    <td><input type="text" id="inputNombre"></td>                    
+                </tr>
+                <tr>
+                    <td><label for="inputApellido">Apellidos</label></td>
+                    <td><input type="text" id="inputApellido"></td>
+                </tr>
+                <tr>
+                    <td><label for="">Color favorito</label></td>
+               
+                    <td><input type="color" id="inputColor"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" value="Guardar Datos" id="inputGuardar">
+                    </td>
+                
+                    <td><button id="btnBorrar">Borrar Storage</button></td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+    
+</body>
+</html>

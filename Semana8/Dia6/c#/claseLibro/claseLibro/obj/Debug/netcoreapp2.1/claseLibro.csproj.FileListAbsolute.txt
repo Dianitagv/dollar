@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\bin\Debug\netcoreapp2.1\claseLibro.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\bin\Debug\netcoreapp2.1\claseLibro.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\bin\Debug\netcoreapp2.1\claseLibro.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\bin\Debug\netcoreapp2.1\claseLibro.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\bin\Debug\netcoreapp2.1\claseLibro.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\obj\Debug\netcoreapp2.1\claseLibro.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\obj\Debug\netcoreapp2.1\claseLibro.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\obj\Debug\netcoreapp2.1\claseLibro.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\obj\Debug\netcoreapp2.1\claseLibro.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\obj\Debug\netcoreapp2.1\claseLibro.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia6\c#\claseLibro\claseLibro\obj\Debug\netcoreapp2.1\claseLibro.pdb

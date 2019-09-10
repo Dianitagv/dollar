@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\bin\Debug\netcoreapp2.1\Herencia.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\bin\Debug\netcoreapp2.1\Herencia.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\bin\Debug\netcoreapp2.1\Herencia.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\bin\Debug\netcoreapp2.1\Herencia.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\bin\Debug\netcoreapp2.1\Herencia.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\obj\Debug\netcoreapp2.1\Herencia.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\obj\Debug\netcoreapp2.1\Herencia.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\obj\Debug\netcoreapp2.1\Herencia.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\obj\Debug\netcoreapp2.1\Herencia.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\obj\Debug\netcoreapp2.1\Herencia.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana9\Dia2\ClasePublica1\Herencia\Herencia\Herencia\obj\Debug\netcoreapp2.1\Herencia.pdb

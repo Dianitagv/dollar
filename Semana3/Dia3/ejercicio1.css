@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{
+    height: 10%;    
+    background-color: green;
+    border: 3px solid blue;
+}
+
+main{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: blue;    
+}
+
+nav{
+    width: 20%;
+    background-color: white;
+    margin: 5px;
+    
+}
+
+article {
+    width: 60%;
+    background-color: white;
+    margin: 5px;
+}
+
+aside{
+    width: 20%;
+    background-color: white;;
+    margin: 5px;
+}
+
+footer{
+    height: 10%;
+    background-color: green;
+    border: 3px solid blue;
+}

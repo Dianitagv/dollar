@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\bin\Debug\netcoreapp2.1\Caracteres.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\bin\Debug\netcoreapp2.1\Caracteres.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\bin\Debug\netcoreapp2.1\Caracteres.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\bin\Debug\netcoreapp2.1\Caracteres.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\bin\Debug\netcoreapp2.1\Caracteres.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\obj\Debug\netcoreapp2.1\Caracteres.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\obj\Debug\netcoreapp2.1\Caracteres.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\obj\Debug\netcoreapp2.1\Caracteres.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\obj\Debug\netcoreapp2.1\Caracteres.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\obj\Debug\netcoreapp2.1\Caracteres.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Caracteres\Caracteres\obj\Debug\netcoreapp2.1\Caracteres.pdb

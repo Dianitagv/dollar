@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script>
+        window.onload = function(){
+        var btnInsertar = document.getElementById("btnInsertar");
+        var suma = 0;
+        btnInsertar.onclick = function(){           
+
+            var input1 = document.getElementById("input1").value;
+            var input2 = document.getElementById("input2").value;
+            var input3 = document.getElementById("input3").value;    
+            var total = input1 * input3;
+            var input4 = Math.round(total * 100)/100;                        
+            
+
+
+            var bodyTable = document.getElementById("bodyTable");
+
+            var tr = document.createElement("tr");
+            var td1 = document.createElement("td");
+            var td2 = document.createElement("td");
+            var td3 = document.createElement("td");
+            var td4 = document.createElement("td");
+
+            td1.innerHTML = input1;
+            td2.innerHTML = input2;
+            td3.innerHTML = input3;
+            td4.innerHTML = input4;
+
+            tr.appendChild(td1);
+            tr.appendChild(td2);
+            tr.appendChild(td3);
+            tr.appendChild(td4);
+
+            bodyTable.appendChild(tr);
+            
+            suma +=input4;
+            console.log(suma);
+
+            var footer = document.getElementById("footerTable");
+            var Total = document.getElementById("Total");
+
+            Total.innerHTML = suma;
+
+             input1.value = "";
+            input2.value = "";
+            input3.value = "";
+            input4.value = "";
+
+
+
+
+
+            
+                       
+        }
+    }
+    </script>
+</head>
+
+<body>
+    <table class="table table-info">
+        <thead>
+            <tr">
+                <th>Cantidad</th>
+                <th>Descripción</th>
+                <th>P. Unitario</th>
+                <th>P. Total</th>
+            </tr>
+        </thead>
+        <tbody id="bodyTable">
+
+        </tbody>
+        
+        <tfooter id="footerTable">
+            <tr>
+                <td colspan="3"><strong> TOTAL</strong></td>                            
+                <td id="Total">0.00</td>
+            </tr>
+        </tfooter>
+    </table>
+
+    <input type="text" placeholder="Ingrese Cantidad" id="input1">
+    <input type="text" placeholder="Ingrese Producto" id="input2">
+    <input type="text" placeholder="Ingrese precio unitario" id="input3">
+    <button id="btnInsertar">Agregar</button>
+</body>
+
+</html>

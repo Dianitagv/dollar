@@ -1,0 +1,11 @@
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\bin\Debug\netcoreapp2.1\ClasePelicula.deps.json
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\bin\Debug\netcoreapp2.1\ClasePelicula.runtimeconfig.json
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\bin\Debug\netcoreapp2.1\ClasePelicula.runtimeconfig.dev.json
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\bin\Debug\netcoreapp2.1\ClasePelicula.dll
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\bin\Debug\netcoreapp2.1\ClasePelicula.pdb
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\obj\Debug\netcoreapp2.1\ClasePelicula.csprojAssemblyReference.cache
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\obj\Debug\netcoreapp2.1\ClasePelicula.csproj.CoreCompileInputs.cache
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\obj\Debug\netcoreapp2.1\ClasePelicula.AssemblyInfoInputs.cache
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\obj\Debug\netcoreapp2.1\ClasePelicula.AssemblyInfo.cs
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\obj\Debug\netcoreapp2.1\ClasePelicula.dll
+E:\CODIGO\PracticasCasa\CSharp\ClasePelicula\ClasePelicula\ClasePelicula\obj\Debug\netcoreapp2.1\ClasePelicula.pdb

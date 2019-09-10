@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia6\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.pdb

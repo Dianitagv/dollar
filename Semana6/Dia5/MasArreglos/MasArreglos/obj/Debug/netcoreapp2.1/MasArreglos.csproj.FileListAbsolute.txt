@@ -1,0 +1,17 @@
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\bin\Debug\netcoreapp2.1\MasArreglos.deps.json
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\bin\Debug\netcoreapp2.1\MasArreglos.runtimeconfig.json
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\bin\Debug\netcoreapp2.1\MasArreglos.runtimeconfig.dev.json
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\bin\Debug\netcoreapp2.1\MasArreglos.dll
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\bin\Debug\netcoreapp2.1\MasArreglos.pdb
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.csprojAssemblyReference.cache
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.csproj.CoreCompileInputs.cache
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.AssemblyInfoInputs.cache
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.AssemblyInfo.cs
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.dll
+D:\CODIGO6\CHRISTIAN CSHARP\backend.tecsup6\Semana 6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana6\Dia5\MasArreglos\MasArreglos\obj\Debug\netcoreapp2.1\MasArreglos.pdb

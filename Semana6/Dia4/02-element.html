@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        html,body{
+            height: 100%;
+        }
+        body{
+            background-color: #4b4545;
+            color:white;    
+        }
+        .item::before{
+            content: "";
+            display: inline-block;
+            animation-timing-function: linear;
+            animation-name: roteishon;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+            width: 8px;
+            height: 8px;
+            background-color: goldenrod;
+            margin-right: 2px;
+            transform: translate(0,-1px) rotate(45deg);
+        }     
+
+        @keyframes roteishon{
+            from
+            {
+                transform: rotate(0deg);
+            }
+            to
+            {   
+                transform: rotate(360deg);
+            }
+        }   
+    </style>
+</head>
+<body>
+    <main id="principal">
+        <!-- <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul> -->
+
+    </main>
+  
+    <script src="./02-element.js"></script>
+</body>
+</html>

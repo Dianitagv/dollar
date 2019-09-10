@@ -1,0 +1,11 @@
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\bin\Debug\netcoreapp2.1\ConexionDB_6.deps.json
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\bin\Debug\netcoreapp2.1\ConexionDB_6.runtimeconfig.json
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\bin\Debug\netcoreapp2.1\ConexionDB_6.runtimeconfig.dev.json
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\bin\Debug\netcoreapp2.1\ConexionDB_6.dll
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\obj\Debug\netcoreapp2.1\ConexionDB_6.csprojAssemblyReference.cache
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\obj\Debug\netcoreapp2.1\ConexionDB_6.csproj.CoreCompileInputs.cache
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\obj\Debug\netcoreapp2.1\ConexionDB_6.AssemblyInfoInputs.cache
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\obj\Debug\netcoreapp2.1\ConexionDB_6.AssemblyInfo.cs
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\bin\Debug\netcoreapp2.1\ConexionDB_6.pdb
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\obj\Debug\netcoreapp2.1\ConexionDB_6.dll
+C:\Users\mañana\source\repos\ConexionDB_6\ConexionDB_6\obj\Debug\netcoreapp2.1\ConexionDB_6.pdb

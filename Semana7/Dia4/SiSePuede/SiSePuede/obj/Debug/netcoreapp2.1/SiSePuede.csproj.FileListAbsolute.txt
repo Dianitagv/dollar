@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\bin\Debug\netcoreapp2.1\SiSePuede.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\bin\Debug\netcoreapp2.1\SiSePuede.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\bin\Debug\netcoreapp2.1\SiSePuede.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\bin\Debug\netcoreapp2.1\SiSePuede.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\bin\Debug\netcoreapp2.1\SiSePuede.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\obj\Debug\netcoreapp2.1\SiSePuede.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\obj\Debug\netcoreapp2.1\SiSePuede.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\obj\Debug\netcoreapp2.1\SiSePuede.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\obj\Debug\netcoreapp2.1\SiSePuede.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\obj\Debug\netcoreapp2.1\SiSePuede.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia4\SiSePuede\SiSePuede\obj\Debug\netcoreapp2.1\SiSePuede.pdb

@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\bin\Debug\netcoreapp2.1\ClaseCuenta.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\bin\Debug\netcoreapp2.1\ClaseCuenta.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\bin\Debug\netcoreapp2.1\ClaseCuenta.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\bin\Debug\netcoreapp2.1\ClaseCuenta.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\bin\Debug\netcoreapp2.1\ClaseCuenta.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\obj\Debug\netcoreapp2.1\ClaseCuenta.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\obj\Debug\netcoreapp2.1\ClaseCuenta.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\obj\Debug\netcoreapp2.1\ClaseCuenta.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\obj\Debug\netcoreapp2.1\ClaseCuenta.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\obj\Debug\netcoreapp2.1\ClaseCuenta.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana8\Dia1\ClaseCuenta\ClaseCuenta\obj\Debug\netcoreapp2.1\ClaseCuenta.pdb

@@ -1,0 +1,11 @@
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp2.1\Ordenamiento.csprojAssemblyReference.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp2.1\Ordenamiento.csproj.CoreCompileInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp2.1\Ordenamiento.AssemblyInfoInputs.cache
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp2.1\Ordenamiento.AssemblyInfo.cs
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp2.1\Ordenamiento.deps.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp2.1\Ordenamiento.runtimeconfig.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp2.1\Ordenamiento.runtimeconfig.dev.json
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp2.1\Ordenamiento.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp2.1\Ordenamiento.pdb
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp2.1\Ordenamiento.dll
+D:\CODIGO6\AVANCE CLASES\ClasesDiarias\Semana7\Dia3\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp2.1\Ordenamiento.pdb
