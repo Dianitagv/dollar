@@ -24,7 +24,7 @@ namespace ConexionDB_6.Entidades
         public bool buscarUsuario(Usuario usuario)
         {
             cmd = new SqlCommand
-                ($"SELECT COUNT(*) FROM usuarios WHERE nombre='{usuario.Nombre}' and clave='{usuario.Clave}'",con.GetConnection());
+                ($"SELECT COUNT(coreo, clave) FROM usuarios WHERE nombre='{usuario.Nombre}' and clave='{usuario.Clave}'",con.GetConnection());
 
             con.AbrirConexion();
             if (Convert.ToInt32(cmd.ExecuteScalar()) != 0)
@@ -37,11 +37,25 @@ namespace ConexionDB_6.Entidades
             {
                 Console.WriteLine("no");
                 return false;
-            }
-
-                
+            }               
             con.CerrarConexion();
             
+        }
+        public Usuario leerUsuario()
+        {
+            cmd = new SqlCommand($"SELECT * FROM usuarios", con.GetConnection());
+            con.AbrirConexion();
+            SqlDataReader reader = cmd.ExecuteReader();
+            Usuario user;
+            while (reader.Read())
+            {
+                user = new Usuario() { Correo = reader[0], Clave = [1], Nombre = reader[2], Privilegios = reader[3], FechaNacimiento = reader.[4] };
+               
+            }
+            return user;
+            con.CerrarConexion();
+
+
         }
 
 
