@@ -1,5 +1,6 @@
 ﻿using ConexionDB_6.Entidades;
 using System;
+using System.Collections.Generic;
 
 namespace ConexionDB_6
 {
@@ -32,6 +33,21 @@ namespace ConexionDB_6
                         if (cusuario.buscarUsuario(usuario1)== true)
                         {
                             Console.WriteLine("se encontro usuario");
+                            Usuario user = cusuario.leerUsuario(usuario1);
+                            Console.WriteLine(user.Nombre);
+                            Console.WriteLine(user.Privilegios);
+                            if(user.Privilegios == 1)
+                            {
+                                Console.WriteLine("administrador");
+
+                            }
+                            else if(user.Privilegios == 2)
+                            {
+                                Console.WriteLine("usuario");
+                            }
+
+                            
+
                         }else
                             Console.WriteLine("no se encontro usuario");
 
