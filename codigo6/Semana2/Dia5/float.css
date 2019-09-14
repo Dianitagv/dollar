@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body *:not(.clear){
+    border:1px solid blue;
+}
+.imagen2{
+    float:right;
+}
+img{
+    float:left;
+}
+
+.clear{
+    clear:both;
+}
+#contenedor{
+    border:1px solid pink;
+    background-color:lightgrey;
+    height: 800px;
+}
