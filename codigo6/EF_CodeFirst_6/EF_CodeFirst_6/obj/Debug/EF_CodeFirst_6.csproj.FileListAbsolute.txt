@@ -1,0 +1,12 @@
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EF_CodeFirst_6.exe.config
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EF_CodeFirst_6.exe
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EF_CodeFirst_6.pdb
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EntityFramework.dll
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EntityFramework.xml
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\obj\Debug\EF_CodeFirst_6.csprojAssemblyReference.cache
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\obj\Debug\EF_CodeFirst_6.csproj.CoreCompileInputs.cache
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\obj\Debug\EF_CodeFirst_6.csproj.CopyComplete
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\obj\Debug\EF_CodeFirst_6.exe
+D:\CODIGO6\dollar\codigo6\EF_CodeFirst_6\EF_CodeFirst_6\obj\Debug\EF_CodeFirst_6.pdb
